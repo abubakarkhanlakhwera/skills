@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:MauiVibeCoderApp.ViewModels"
+             x:Class="MauiVibeCoderApp.Views.MainPage"
+             x:DataType="vm:MainViewModel"
+             Title="{Binding Title}">
+
+    <VerticalStackLayout Padding="24" Spacing="16" VerticalOptions="Center">
+        <Label Text="Hello Copilot! Follow SKILL.md rules."
+               HorizontalOptions="Center"
+               FontSize="18" />
+        <Button Text="{Binding ButtonLabel}"
+                Command="{Binding GreetCommand}"
+                HorizontalOptions="Center" />
+    </VerticalStackLayout>
+
+</ContentPage>

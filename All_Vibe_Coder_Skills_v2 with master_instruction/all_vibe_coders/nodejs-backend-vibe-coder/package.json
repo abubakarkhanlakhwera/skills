@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-backend-vibe-coder",
+  "version": "1.0.0",
+  "description": "A minimal Node.js/Express project to use with Copilot SKILL.md",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "zod": "^3.23.0"
+  }
+}
