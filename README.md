@@ -1,36 +1,27 @@
-# Skills
+# TypeScript Skills Collection
 
 TypeScript skills and automation experiments.
 
-## Overview
+## Purpose
 
-This is a Automation utility prototype repository. It is part of my broader GitHub portfolio showing hands-on work across AI, web development, automation, and software engineering fundamentals.
+This repository collects skill/instruction material and automation-oriented TypeScript work. It is useful for showing experimentation with developer tooling and structured AI/coding workflows.
 
-## What It Demonstrates
+## What This Shows
 
-- Practical implementation and experimentation rather than only theory.
-- Familiarity with the repository's core stack and development workflow.
-- Iterative learning through small projects, exercises, or prototypes.
+- TypeScript project organization
+- Automation/skill material
+- Developer workflow experimentation
 
-## Tech Stack
+## Stack
 
-- Primary language: TypeScript
-- Topics: automation, skills, typescript
-
-## Repository Structure
-
-- Top-level folders: All_Vibe_Coder_Skills_v2 with master_instruction
-- Top-level files: use.txt
-
-## Status
-
-This is a learning/prototype repository kept public to show practice, experimentation, and growth.
+- TypeScript
+- Automation
 
 ## Next Improvements
 
-- Add screenshots, sample outputs, or a short demo where relevant.
-- Expand setup instructions for local development.
-- Document the main learning outcome, architecture, and edge cases.
+- Document what each skill folder is for
+- Add safe examples
+- Separate reusable skills from drafts
 
 ## Author
 
